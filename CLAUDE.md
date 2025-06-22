@@ -29,6 +29,7 @@
 - Use PascalCase for component names
 - Use camelCase for variables and functions
 - Use kebab-case for file names (except components)
+- RUN typecheck and lint after completing tasks and be sure they ALWAYS pass
 
 ## Project Structure
 ```
